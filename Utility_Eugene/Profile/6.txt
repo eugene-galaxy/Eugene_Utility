@@ -1,0 +1,9 @@
+Personal Website
+About the project
+* Front-end Development *
+---
+I am an expert in front-end languages such as HTML, CSS/SCSS, TailwindCSS, JavaScript, TypeScript, Vue.js and React.js. I focus on using latest technologies and achieving stunning performance.
+
+* Back-end Development *
+---
+I am proficient in handling applications that run on servers like web applications and APIs. I build applications and mobile apps that function seamlessly and fulfill the expectations of my customers. I use programming languages and frameworks like Python and FastAPI.
